@@ -7,4 +7,4 @@ test:
 	python -m unittest discover -s tests
 
 run:
-	python api_test_script.py
+	python skryptGET.py

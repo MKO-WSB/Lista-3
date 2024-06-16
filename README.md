@@ -21,3 +21,10 @@ python3 SkryptGET.py
 
 Dokumentacja skryptu
 Skrypt weryfikuje odpowiedzi i wyświetla wyniki testów w czytelny sposób (np. "Test 1: PASSED", "Test 2: FAILED").
+
+
+Użycie Make
+Po uruchomieniu GitBash w lokalizacji skryptu można stosować reguły zaimplementowane w Makefile
+-install - inststalacja zależności - [make install]
+-test - uruchomienie testów jednostkowych - [make test]
+-run - uruchomienie aplikacji - [make run]
